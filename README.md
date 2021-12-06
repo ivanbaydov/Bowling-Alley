@@ -1,1 +1,2 @@
 # Bowling-Alley
+This Program will read the txt file called BowlingScores.txt and count each players name and each players points. After that it would collect the total from each indivdual person into two arrays ones for players and one for points. when calculating the avrage the code loops again 10 times to caulculate each players point into one array list where then it divides by 5 to get the avrage score. Then it will display the the output of each players name, score and avrage score i into a table.
